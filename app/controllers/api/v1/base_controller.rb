@@ -1,3 +1,3 @@
-class Api::V1::BaseController < ActionController::Api
+class Api::V1::BaseController < ActionController::API
   
 end
